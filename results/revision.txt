@@ -1,0 +1,76 @@
+Chi2 Stat: 2.326737000113216
+P-Value: 0.12716819650910452
+Degrees of Freedom: 1
+Expected Frequencies: 
+[[2356.32183908 1743.67816092]
+ [ 943.67816092  698.32183908]]
+
+
+By books:
+
+Chi-Square Statistic: 185.27884913315773
+p-value: 6.1537479135546e-19
+Degrees of Freedom: 45
+
+
+
+
+
+
+TEST ONE
+mann-whitney
+mean score pre war: 4.128458498023716, mean score post war: 4.016609392898053
+diff: 0.11184910512566315t/u: 1437360.5
+effect size: 0.03294655780656968
+p value: 0.0008630921033369439
+
+
+PERMUTATION
+p value: 0.794
+average diff: nan
+SD: nan
+
+average rev lenght: 307.0362027353178, sd: 415.0723752869723
+
+num revs in en: 2484
+num revs in ar: 730
+num revs in fa: 965
+num revs in tr: 197
+num revs in ro: 118
+num revs in pt: 213
+num revs in sw: 3
+num revs in nan: 45
+num revs in de: 47
+num revs in es: 251
+num revs in el: 148
+num revs in hr: 50
+num revs in it: 226
+num revs in pl: 19
+num revs in bg: 19
+num revs in vi: 8
+num revs in fr: 29
+num revs in ru: 54
+num revs in nl: 17
+num revs in mk: 9
+num revs in sq: 4
+num revs in bn: 17
+num revs in sl: 4
+num revs in so: 5
+num revs in ca: 6
+num revs in id: 9
+num revs in et: 11
+num revs in sv: 14
+num revs in da: 4
+num revs in lt: 5
+num revs in no: 5
+num revs in tl: 1
+num revs in af: 6
+num revs in he: 2
+num revs in cy: 3
+num revs in fi: 3
+num revs in th: 2
+num revs in sk: 4
+num revs in uk: 2
+num revs in lv: 3
+num revs in cs: 2
+average rev lenght: 306.3992747784045, sd: 414.81818843872657

@@ -1,0 +1,38 @@
+
+
+
+TEST ONE
+mann-whitney
+mean score pre war: 4.050487804878049, mean score post war: 3.966504263093788
+diff: 0.08398354178426093t/u: 3551113.0
+effect size: 0.03944115078106225
+p value: 0.0005617928807077083
+
+
+PERMUTATION
+
+permutation p: 0.223
+average diff: 0.059918988939777776
+sd: 0.05756278050757886
+results are significant 0.653 of the times
+mean effect size: 0.027818203657378707
+minimum: 0.0134668522556612
+maximum: 0.050089870951690665
+standard deviation: 0.009285552697232332
+
+
+TEST two
+
+pelt: ['2022-01-14', '2022-02-01']
+binary: ['2022-01-05']
+dynamic programming: ['2022-01-01']
+bottomup: ['2022-08-20']
+sliding window: ['2023-08-19']
+
+
+TEST FOUR
+
+Regression line
+slope: -2.3192834443515835e-05
+intercept: 4.1325521175526845
+p_value:0.014916480893086273
